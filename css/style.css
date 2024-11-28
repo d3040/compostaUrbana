@@ -41,9 +41,9 @@ h2, h3 {
     justify-content: space-around;
 }
 
-#etiquette {
-    width: 100px;
-    margin-top: -75px;
+#scroll-down {
+    width: 50px;
+    margin-top: -50px;
     float: right;
 }
 
