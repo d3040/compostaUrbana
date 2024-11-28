@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "OpenSans";
+  src: url("../fonts/open-sans/OpenSans-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "AlexBrush";
+    src: url("../fonts/alex-brush/AlexBrush-Regular.ttf") format("truetype");
+}
+

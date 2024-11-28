@@ -1,0 +1,66 @@
+body {
+    text-align: center;
+    max-width: 500px;
+    margin: auto;
+    padding: 10px;
+    font-family: "OpenSans";
+    background-color: #F0F0F0;
+}
+
+ul {
+	list-style: none;
+	display: grid;
+	padding: 25px;
+	grid: 1fr 1fr/ 1fr 1fr;
+	grid-gap: 25px;
+	justify-items: center;
+}
+
+img {
+	max-width: 500px;
+	width: 100%;
+    border-radius: 10px;
+}
+
+h1 {
+    font-family: "AlexBrush";
+    font-size: 4.375em;
+    margin: 0;
+}
+
+h2, h3 {
+    margin: 0;
+}
+
+#label {
+    height: 80vh;
+    padding: 10vh 0;
+    display: flex;
+	flex-direction: column;
+	align-items: center;
+    justify-content: space-around;
+}
+
+#etiquette {
+    width: 100px;
+    margin-top: -75px;
+    float: right;
+}
+
+#fecha {
+	font-family: AlexBrush;
+	font-weight: 700;
+	font-size: 1.5em;
+}
+
+#mail {
+    font-size: 0.8em;
+    font-weight: 700;
+    border-bottom: 1px solid black;
+}
+
+#img1 {
+    margin-top: 75px;
+}
+
+
