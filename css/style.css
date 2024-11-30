@@ -51,8 +51,10 @@ h2, h3 {
     margin-top: -50px;
     float: right;
     animation-name: bounce;
-    animation-duration: 2s;
+    animation-duration: 4s;
     animation-iteration-count: 2;
+    animation-timing-function: ease-in-out;
+
 }
 
 #fecha {
